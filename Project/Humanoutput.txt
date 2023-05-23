@@ -1,0 +1,50 @@
+Fifty CARDINAL
+16 CARDINAL
+Eight CARDINAL
+three CARDINAL
+two CARDINAL
+two CARDINAL
+daily DATE
+hours TIME
+each day DATE
+Messenger PERSON
+Instagram ORG
+Facebook ORG
+2019 DATE
+3.484 billion MONEY
+9% PERCENT
+only 38% PERCENT
+Twitter ORG
+61% PERCENT
+Snapchat PERSON
+LinkedIn ORG
+Facebook ORG
+The Displaced Behavior Theory ORG
+Facebook ORG
+the past five years DATE
+English LANGUAGE
+16 CARDINAL
+three CARDINAL
+one CARDINAL
+eight CARDINAL
+only three CARDINAL
+the last five years DATE
+Neira PERSON
+Barber PERSON
+16 CARDINAL
+today DATE
+today DATE
+Facebooks ORG
+70% PERCENT
+12 CARDINAL
+Facebook ORG
+7 CARDINAL
+16 CARDINAL
+Only three CARDINAL
+™ ORG
+Cureus PERSON
+Cureus PERSON
+Cureus PERSON
+Cureus PERSON
+Cureus PERSON
+END OF ENTITY SEARCHING(451313080118390996, 1167, 1169) Barber found
